@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=PadronElectoral
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PadronElectoral\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cedula\ nombre\ domicilioElectoral
+comment1.target=PadronElectoral(int,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ getCedula()
+comment3.params=cedula
+comment3.target=void\ setCedula(int)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=nombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDomicilioElectoral()
+comment7.params=domicilioElectoral
+comment7.target=void\ setDomicilioElectoral(java.lang.String)
+comment8.params=
+comment8.target=boolean\ isVotoEmitido()
+comment9.params=votoEmitido
+comment9.target=void\ setVotoEmitido(boolean)
+numComments=11
